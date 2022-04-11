@@ -1,0 +1,33 @@
+
+body{
+    background-color: rgb(153, 143, 143);
+    font-style: normal;
+    font-weight: normal;
+    height: auto;
+   width: 100%;
+    margin: 8px 8px 8px;
+    
+}
+.images{
+    background-color: rgb(235, 184, 184);
+    width: 200px;
+    border-radius: 28px;
+box-shadow: 4px 4px 14px #000000;
+  }
+.prof{
+   font: weight 60px;; 
+    color: blue;
+    font-style: italic;
+}
+.withme{
+    cursor: pointer;
+}
+.left{
+    background: linear-gradient(90deg, #353333 0%, #f3ebeb 100% );
+  margin: 10px;
+   padding: 10px;
+
+}
+.a:hover{
+    text-decoration: underline;
+}
